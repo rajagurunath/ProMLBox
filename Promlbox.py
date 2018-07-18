@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 24 10:40:07 2018
-D:\dummies\personal assistant\proml>pyinstaller --hiddenimport cython  --hiddeni
-mport sklearn --hiddenimport sklearn.neighbors.typedefs --hiddenimport sklearn.n
-eighbors.quad_tree --hiddenimport sklearn.ensemble --hiddenimport sklearn.tree._
-utils  --onefile Promlbox.py
 
 
 @author: Dell

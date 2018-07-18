@@ -138,10 +138,5 @@ apply_algorithm()
 #
 
 
-D:\dummies\personal assistant\proml>pyinstaller --hiddenimport cython  --hiddeni
-mport sklearn --hiddenimport sklearn.neighbors.typedefs --hiddenimport sklearn.n
-eighbors.quad_tree --hiddenimport sklearn.ensemble --hiddenimport sklearn.tree._
-utils  --onefile Promlbox.py
-
 
 
